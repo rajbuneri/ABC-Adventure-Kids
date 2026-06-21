@@ -1,0 +1,6 @@
+{
+  "name": "ABC Adventure Kids",
+  "description": "An interactive, fun, and colorful English alphabet learning web application for children aged 3-7 years, featuring interactive voice feedback, custom canvas letter tracing, multiple learning games, a rewards sticker book, and a parental progress dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
